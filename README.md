@@ -80,4 +80,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Created by [@mr_0x1](https://github.com/mr_0x1)
+Created by [@Mr-0x1](## Featureshttps://github.com/Mr-0x1)
