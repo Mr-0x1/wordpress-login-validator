@@ -29,26 +29,29 @@ pip install requests termcolor
 
 ## Usage
 
-1. Clone or download this repository to your local machine.
-2. Place your WordPress credentials file in the same directory as the script. Ensure the file contains lines in one of the following formats:
+1. Clone or download this repository to your local machine :
+  ```
+git clone https://github.com/Mr-0x1/-wordpress-login-validator.git
+   ```
+3. Place your WordPress credentials file in the same directory as the script. Ensure the file contains lines in one of the following formats:
    ```
    http://example.com|email@example.com|password
    http://example.com#email@example.com#password
    http://example.com:email@example.com:password
    http://example.com@email@example.com@password
    ```
-3. Run the script:
+4. Run the script:
    ```bash
    python script_name.py
    ```
-4. When prompted, enter the path to your credentials file.
+5. When prompted, enter the path to your credentials file.
 
    Example:
    ```
    Enter the path to your WordPress credentials file: credentials.txt
    ```
 
-5. The script will process the file and save valid logins to `valid_logins.txt`.
+6. The script will process the file and save valid logins to `valid_logins.txt`.
 
 ## Output
 
