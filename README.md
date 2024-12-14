@@ -3,7 +3,7 @@
 
 This script is designed to validate WordPress login credentials by checking email and password combinations against WordPress login URLs. It supports multiple delimiters (`|`, `#`, `:`, and `@`) and ensures duplicate entries are skipped. Valid logins are saved instantly to a file.
 
-**Created by [@mr_0x1](https://github.com/mr_0x1)**  
+**Created by [@mr_0x1](## Featureshttps://github.com/Mr-0x1)**  
 
 ## Features
 - Supports multiple delimiters (`|`, `#`, `:`, `@`) for credentials.
@@ -71,7 +71,7 @@ Validation complete. Valid logins saved to valid_logins.txt.
 
 ## Contributing
 
-This project is maintained and created by [@mr_0x1](https://github.com/mr_0x1).  
+This project is maintained and created by [@mr_0x1](## Featureshttps://github.com/Mr-0x1).  
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
