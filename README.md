@@ -74,7 +74,7 @@ Validation complete. Valid logins saved to valid_logins.txt.
 
 ## Contributing
 
-This project is maintained and created by [@mr_0x1](## Featureshttps://github.com/Mr-0x1).  
+This project is maintained and created by [@mr_0x1](##Featureshttps://github.com/Mr-0x1).  
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
@@ -83,4 +83,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Created by [@mr_0x1](## Featureshttps://github.com/Mr-0x1).
+Created by [@mr_0x1](##https://github.com/Mr-0x1).
