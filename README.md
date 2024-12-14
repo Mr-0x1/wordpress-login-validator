@@ -42,7 +42,7 @@ git clone https://github.com/Mr-0x1/-wordpress-login-validator.git
    ```
 4. Run the script:
    ```bash
-   python script_name.py
+   python wp-checker.py
    ```
 5. When prompted, enter the path to your credentials file.
 
