@@ -31,7 +31,7 @@ pip install requests termcolor
 
 1. Clone or download this repository to your local machine :
   ```
-git clone https://github.com/Mr-0x1/-wordpress-login-validator.git
+git clone https://github.com/Mr-0x1/wordpress-login-validator.git
    ```
 3. Place your WordPress credentials file in the same directory as the script. Ensure the file contains lines in one of the following formats:
    ```
@@ -83,4 +83,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Created by [@Mr-0x1](##https://github.com/Mr-0x1)
+Created by [@mr_0x1](## Featureshttps://github.com/Mr-0x1).
